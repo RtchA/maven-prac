@@ -22,4 +22,8 @@
     </dependency>
 </dependencies>
 
+    <build>
+        <finalName>app</finalName>
+    </build>
+
 </project>
